@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem 'redcarpet', '1.17.2'
+gem 'redcarpet', '3.5.1'
 gem 'nokogiri'
 gem 'pdfkit'
 gem 'wkhtmltopdf-binary'
